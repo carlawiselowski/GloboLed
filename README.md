@@ -1,7 +1,9 @@
 <h1 align = "center"> Globo de Led </h1>
 
-<div>
-  
+<div align="center">
+    <a href="https://cplusplus.com/reference/" target="_blank" rel="noopener">
+      <img src="/globe.jpeg" width="150"/>
+    </a>
 </div>
 
 ## Abstract
@@ -44,4 +46,22 @@ Bluetooth, both powered by a battery that is connected to the ring.
   <li><strong>Bearing Ring:</strong> A ring used with bearings for supporting or aligning them.</li>
 </ul>
 
+## Result
+<h3>Image</h3>
+<p> Image demonstrating the components</p>
+<div align = "center">
+   <a href="https://cplusplus.com/reference/" target="_blank" rel="noopener">
+      <img src="/anel.jpeg" width="300"/>
+    </a>
+    <a href="https://www.arduino.cc" target="_blank" rel="noopener">
+         <img src="/base.jpeg" width="400"/>
+    </a>
+</div>
+<h3>Video</h3>
+<p>Video showing some scenes of the globe</p>
+<div align = "center">
+  <a href="https://www.sfml-dev.org" target="_blank" rel="noopener">
+      <img src="/video_globoLEDgif.gif" width="300" height="450" alt="Example GIF">
+    </a>
+</div>
 
